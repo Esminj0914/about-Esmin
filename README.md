@@ -1,23 +1,26 @@
-Esmin 
+## Esmin 
 
 esminj0914@hstat.org 
 
-Highschool of Telecommunications Arts & Technology 
+## School
+[Highschool of Telecommunications Arts & Technology](http://www.hstat.org/)
 
-I like to play basketball. 
+**Bio:**
+I like to play basketball.<br> I have one older brother. 
+-----------------
+### Schedule 
+_1. Algebra 2_
 
-Algebra 2 
+_2. SEP_ 
 
-SEP 
+_3. English 5_ 
 
-English 5 
+_4. AP U.S History_ 
 
-AP U.S History 
+_5. Physical Education_ 
 
-Physical Education 
+_6. Spanish 5_ 
 
-Spanish 5 
+_7. Lunch_
 
-Lunch
-
-Physics 
+_8. Physics_ 
