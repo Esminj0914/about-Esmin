@@ -1,13 +1,14 @@
-## Esmin 
+# Esmin Jusic 
 
+## Email: 
 esminj0914@hstat.org 
 
 ## School
 [Highschool of Telecommunications Arts & Technology](http://www.hstat.org/)
 
-**Bio:**
+ **Bio:**  
 I like to play basketball.<br> I have one older brother. 
------------------
+-------
 ### Schedule 
 _1. Algebra 2_
 
